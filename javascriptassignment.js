@@ -10,5 +10,5 @@ for(var i=0;i<fruits.length;i++)
   if(prod>250)
   {
   console.log(fruits[i].name)
-  }
+  } 
 }
